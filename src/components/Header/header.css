@@ -1,0 +1,53 @@
+
+.cartitem{
+  font-size: 20px;
+  color: #fff;
+}
+
+.bgnav {
+  width: auto;
+  margin-top: -40em;
+}
+
+
+.nav-link {
+  margin: 0 10px;
+}
+.bgimg{
+  background-image: url("../../Images/12929-slide-02.jpg");
+  min-height: 720px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin-top: -80px;
+  z-index: -1;
+
+
+}
+.carousel-inner
+{
+  position: absolute;
+  top: 260px;
+  right: 400px;
+  
+}
+
+
+
+
+
+
+@media (max-width:768px){
+  .carousel-inner{
+    margin-left: 400px;
+  }
+  .navbar {
+    background-image: url("../../Images/12929-slide-02.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  
+  }
+}
+
+

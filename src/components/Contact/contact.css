@@ -1,0 +1,25 @@
+.btn-boxxx a{
+    display: inline-block;
+    padding: 10px 45px;
+    background-color: #1fab89;
+    color: #ffffff;
+    border-radius: 5px;
+    /* -webkit-transition: all 0.3s; */
+    transition: all 0.3s;
+    border: 1px solid #1fab89;
+    text-decoration: none;
+    /* width: 640px; */
+
+}
+a, a:hover {
+    text-decoration: none;
+    color: #1fab89;
+    background-color: #62d2a200;
+}
+.gmap_iframe {
+    margin-top: 50px;
+    width:100%!important;
+    height:350px!important;
+    margin-bottom: 50px;
+    }
+ 
